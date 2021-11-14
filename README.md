@@ -6,4 +6,4 @@ That's OK :) I have linked to this on my local machinee using both Obsidian and 
 
 I think we can all use HAckMD as an editor if we like? As long as we are part of the repo.
 
-Wee can edit this file on GitHub as well then "sync" in HackMD.
+We can edit this file on GitHub as well then "sync" in HackMD.
