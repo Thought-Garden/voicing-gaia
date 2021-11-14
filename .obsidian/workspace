@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "db8048da52ee7701",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b88c3206fab13a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Positive Cartography.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4712e5049e1fa409",
+    "type": "split",
+    "children": [
+      {
+        "id": "0489e7e280203398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56e01db082ec9f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "678da4314885c2ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc1f7d00a187f233",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5d5194381a867dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0937dbc890468cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Positive Cartography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0b88c3206fab13a",
+  "lastOpenFiles": [
+    "Positive Cartography.md",
+    "README.md"
+  ]
+}
