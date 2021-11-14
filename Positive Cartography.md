@@ -1,2 +1,2 @@
 This is about visual thinking - not just cognitive word-making
-world buidling
+it is about world buidling, using images ansd words ato reinforce each other
