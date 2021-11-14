@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Creative Structure.md",
+            "file": "Gaia Mobile App.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creative Structure.md",
+                "file": "Gaia Mobile App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,13 +83,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e0b88c3206fab13a",
   "lastOpenFiles": [
-    "Creative Structure.md",
+    "Gaia Mobile App.md",
+    "Gaia Game Jam.md",
+    "Global Game Jam.md",
+    "HackMd Integration.md",
     "README.md",
+    "radioactive_community.md",
+    "Creative Structure.md",
     "Positive Cartography.md"
   ]
 }
