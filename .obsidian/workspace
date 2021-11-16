@@ -87,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Positive Cartography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +105,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d11990e819858909",
+  "active": "05a236059c1d7bfb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Positive Cartography.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "Gaia Game Jam.md",
     "Creative Structure.md",

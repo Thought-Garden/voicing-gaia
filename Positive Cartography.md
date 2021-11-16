@@ -6,4 +6,5 @@ Ideally, this allows people from different backgrounds - countries, cultures, la
 
 Ideally, it is about world-building, using images and words to reinforce each other. Worlds that will not fall apart the next time the wind blows.
 
+There's a lot more to tell
  
