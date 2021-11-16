@@ -47,7 +47,7 @@ Sounds need to be cared for and “planted” in the Sound Garden. Specifically 
 
 Sound seeds can be automatically transcribed, and an AI can look to automatically tag and link these sound seeds to concepts and Wikipedia articles. But we do not expect anything of quality to be created without careful hand tending and watering of seeds. Workshops should look to organise work so that these seeds are not just recorded but cared for as it will not be possible to do this centrally in post-production.
 
-## Positive Cartograph
+## Positive Cartography
 
 We use positive cartography to map Gaia’s mind. In simple terms this is a form of “mind map” that we create by assembling maps created in each workshop. This is the second structural element that each workshop should have in common - to create an image of how they see the “structure” or “inner workings” or “principles” according to which Gaia’s mind or minds operate.
 
